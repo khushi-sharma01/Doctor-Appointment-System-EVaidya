@@ -1,0 +1,68 @@
+/* styles for the center container */
+.center-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh; /* 100% of the viewport height */
+}
+
+/* styles for the form container */
+.form-container {
+  width: 300px;
+  margin-right: 20px; 
+  padding: 20px;
+  background-color: #46B5DF;
+  border-top-right-radius: 8px; /* Apply border-radius to top-right corner */
+  border-bottom-right-radius: 8px; /* Apply border-radius to bottom-right corner */
+ 
+}
+.form-container-2 {
+  width: 300px;
+ 
+  padding: 20px;
+  background-color: #b6e1f2;
+  border-top-right-radius: 8px; /* Apply border-radius to top-right corner */
+  border-bottom-right-radius: 8px; 
+}
+
+/* styles for the form */
+.register-form {
+  margin-top: 20px;
+}
+
+/* styles for the link */
+.m-2 {
+  display: block;
+  margin-top: 10px;
+}
+
+/* styles for the button */
+.btn-primary {
+  width: 100%;
+  background-color: #122b46;
+  color: #fff;
+  border: none;
+  padding: 10px 15px;
+  cursor: pointer;
+}
+
+.loginsideimg {
+  
+  margin-left: 20px;
+  width: 400;
+  height:348px;
+  border-top-left-radius: 8px; /* Apply border-radius to top-right corner */
+  border-bottom-left-radius: 8px; /* Apply border-radius to bottom-right corner */
+}
+.registersideimg{
+  
+  width: 400;
+  height:400px;
+  border-top-left-radius: 8px; /* Apply border-radius to top-right corner */
+  border-bottom-left-radius: 8px; /* Apply border-radius to bottom-right corner */
+
+  margin-left: 65px; 
+}
+
+/* additional styles as needed */
+
